@@ -6,7 +6,7 @@ face_cascade = cv2.CascadeClassifier('haarcascade/frontalface.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade/eye.xml')
 
 font = cv2.FONT_HERSHEY_SIMPLEX
-font_scale = 0.7
+font_scale = 0.6
 font_thickness = 2
 text_color = (0, 0, 255)
 
